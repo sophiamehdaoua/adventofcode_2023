@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  1 13:51:16 2023
-
-@author: sophi
-"""
-
 import pandas as pd 
 import numpy as np
 
