@@ -1,5 +1,14 @@
 # -*- coding: utf-8 -*-
 
+"""
+Task:
+- inputs are a random string of letters and numbers e.g. fivepqxlpninevh2xxsnsgg63pbvdnqptmg
+- objective is to get take the first and last numbers in that string e.g. 23
+- this needs to be done for 1000 inputs 
+- we then need to sum all of those values 
+
+"""
+
 import pandas as pd 
 import numpy as np
 
